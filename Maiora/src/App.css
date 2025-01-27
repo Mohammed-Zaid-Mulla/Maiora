@@ -1,0 +1,132 @@
+.App {
+  text-align: center;
+  
+}
+
+.outer{
+  background-color: rgb(83, 81, 80);
+  color: white;
+  width: 30%;
+  display: inline-block;
+  height: 100vh;
+  border-radius: 10px;
+}
+
+.inner{
+  border: 1px solid rgb(38, 139, 228);
+  width: 80%;
+  border-radius: 10px;
+  display: inline-block;
+  background-color: rgb(47, 55, 63);
+  margin-bottom: 20px;
+}
+.inner1{
+  
+  width: 80%;
+  border-radius: 10px;
+  display: inline-block;
+  background-color: rgb(47, 55, 63);
+  margin-bottom: 20px;
+}
+.inner2{
+  
+  width: 80%;
+  border-radius: 10px;
+  display: inline-block;
+  background-color: rgb(47, 55, 63);
+  
+}
+.inner3{
+  background-color: rgb(47, 55, 63);
+  padding-bottom: 30px;
+  border-radius: 10px;
+  
+}
+.apply-btn{
+  background: aqua;
+  width: 80%;
+  padding: 5px;
+  color: rgb(88, 91, 94);
+}
+.apply-btn:hover{
+  background: aquamarine;
+}
+label{
+  size: 15px;
+}
+.inner1 input[type = 'range']{
+  width: 80%;
+  
+}
+.inner2 input[type = 'range']{
+  width: 80%;
+}
+
+.inner h6, h4{
+  display: flex;
+  margin-left: 5px;
+  margin-top: 5px;
+  
+  
+}
+.inner h4{
+  margin-bottom: 0px;
+  font-size: 15px;
+}
+.innerSub{
+  border-top: 1px solid rgb(240, 229, 229);
+  width: 90%;
+  margin-left: 5%;
+}
+.inner3 h5,h2,p{
+  display: flex;
+  margin-left: 12%;
+  margin-right: 12%;
+}
+.inner3 h5{
+  margin-bottom: 5px;
+  padding-top: 10px;
+  font-size: 12px;
+}
+.inner3 h2{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.inner1Sub{
+  display: flex;
+  justify-content: space-between;
+  margin-top: -18px;
+  font-size: 12px;
+}
+.inner3txt{
+  text-align: left;
+  font-size: 12px;
+}
+.inner1 label,h3{
+  display: flex;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.inner1sub{
+  width: 90%;
+  margin-left: 5%;
+}
+.inner1 label{
+  font-size: 12px;
+}
+.inner h5{
+  font-size: 12px;
+}
+
+.inner2 label,h3{
+  display: flex;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.inner2sub{
+  width: 90%;
+  margin-left: 5%;
+}
+.inner2 label{
+  font-size: 12px;
+}
